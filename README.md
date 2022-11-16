@@ -4,8 +4,9 @@
 I've been a passionate Front End / Shopify Developer since 2018. This is the place for you if you need a responsive, modern, and professional Shopify website.
 
 
-- 🔭 I’m currently working on Monolith Brands Group
-- 🌱 I’m currently learning ReactJS
+
+- 🔭 I’m currently working on ... Using Javascript to build custom Shopify websites - https://shoaibajmi.com
+- 🌱 I’m currently learning ReactJS,Ruby on Rails
 - 💬 Ask me about JavaScript, React, Liquid, Our Solar System and Astronomy
 - 📫 How to reach me: shoaibajmi.contact@gmail.com
 
