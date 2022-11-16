@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Shoaib Ajmi
 #### I’m a Web developer
 
-I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immersive & beautiful web applications using modern technologies.
+I've been a passionate Front End / Shopify Developer since 2018. This is the place for you if you need a responsive, modern, and professional Shopify website.
 
 
 - 🔭 I’m currently working on Monolith Brands Group
@@ -9,8 +9,6 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immers
 - 💬 Ask me about JavaScript, React, Liquid, Our Solar System and Astronomy
 - 📫 How to reach me: shoaibajmi.contact@gmail.com
 
-
-- 😄 Pronouns: He/Him 
 
 ![Profile views](https://gpvc.arturio.dev/srhimel)  
 
