@@ -7,7 +7,8 @@ I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immers
 - 🔭 I’m currently working on Monolith Brands Group
 - 🌱 I’m currently learning ReactJS
 - 💬 Ask me about JavaScript, React, Liquid, Our Solar System and Astronomy
-- 📫 How to reach me: hoaibajmi.contact@gmail.com
+- 📫 How to reach me: shoaibajmi.contact@gmail.com
+
 
 - 😄 Pronouns: He/Him 
 
