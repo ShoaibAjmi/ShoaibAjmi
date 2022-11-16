@@ -1,6 +1,3 @@
-
-https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/242969684_385184303237078_2704281770538440267_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sIv8UoRVPC8AX-uDMq7&_nc_ht=scontent.fdac5-1.fna&oh=00_AfCFLpdGwqh9gyWCuCS_ts99RrUHm9sz-Yp73y2OEtdetA&oe=637838BF
-
 ## Hi there 👋, I'm Shoaib Ajmi
 #### I’m a Web developer
 
