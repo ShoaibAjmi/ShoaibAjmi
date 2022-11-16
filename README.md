@@ -1,16 +1,17 @@
 
 https://scontent.fdac5-1.fna.fbcdn.net/v/t39.30808-6/242969684_385184303237078_2704281770538440267_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=sIv8UoRVPC8AX-uDMq7&_nc_ht=scontent.fdac5-1.fna&oh=00_AfCFLpdGwqh9gyWCuCS_ts99RrUHm9sz-Yp73y2OEtdetA&oe=637838BF
 
-## Hi there 👋, I'm Shahamar Rahman
-#### Software Engineer (MERN)
+## Hi there 👋, I'm Shoaib Ajmi
+#### I’m a Web developer
 
 I'm a MERN Stack Developer based in Dhaka, Bangladesh. I strives to build immersive & beautiful web applications using modern technologies.
 
 
-- 🔭 I’m currently working on Devspike
-- 🌱 I’m currently learning React-Native 
-- 💬 Ask me about JavaScript, React, NodeJs, Python, Our Solar System and Astronomy
-- 📫 How to reach me: himusr@gmail.com
+- 🔭 I’m currently working on Monolith Brands Group
+- 🌱 I’m currently learning ReactJS
+- 💬 Ask me about JavaScript, React, Liquid, Our Solar System and Astronomy
+- 📫 How to reach me: hoaibajmi.contact@gmail.com
+
 - 😄 Pronouns: He/Him 
 
 ![Profile views](https://gpvc.arturio.dev/srhimel)  
