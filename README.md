@@ -12,7 +12,7 @@ I've been a passionate Front End / Shopify Developer since 2018. This is the pla
 
 ![Profile views](https://gpvc.arturio.dev/srhimel)  
 
-![Profile views] (https://gpvc.arturio.dev/shoaibajmi)
+![Profile views](https://gpvc.arturio.dev/shoaibajmi) 
 
 ## 🚀 Connect with me
 
