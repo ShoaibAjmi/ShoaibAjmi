@@ -12,6 +12,8 @@ I've been a passionate Front End / Shopify Developer since 2018. This is the pla
 
 ![Profile views](https://gpvc.arturio.dev/srhimel)  
 
+![Profile views] (https://gpvc.arturio.dev/shoaibajmi)
+
 ## 🚀 Connect with me
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/shoaibajmiofficial/)
