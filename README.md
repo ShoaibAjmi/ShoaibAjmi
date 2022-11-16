@@ -34,7 +34,7 @@ I've been a passionate Front End / Shopify Developer since 2018. This is the pla
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/shoaibajmi)
 [![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/shoaibajmi)
 [![Typescript Badge](https://img.shields.io/badge/typeScript-0078D6?style=for-the-badge&logo=typeScript&logoColor=white)](https://github.com/shoaibajmi)
-[![Liquid-Badge](https://img.shields.io/badge/Liquid-CC6699?style=for-the-badge&logo=Liquid&logoColor=white)](https://github.com/shoaibajmi)
+[![Liquid-Badge](https://img.shields.io/badge/Liquid-F7DF1E?style=for-the-badge&logo=Liquid&logoColor=white)](https://github.com/shoaibajmi)
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/shoaibajmi)
 [![Styled Badge](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://github.com/shoaibajmi)
 [![Material UI Badge](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)](https://github.com/shoaibajmi)
