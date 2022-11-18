@@ -58,3 +58,8 @@ I've been a passionate Front End / Shopify Developer since 2018. This is the pla
 </p>
 
 
+
+<p>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibajmi&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
+</p>
+
