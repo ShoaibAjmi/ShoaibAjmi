@@ -56,14 +56,3 @@ I've been a passionate Front End / Shopify Developer since 2018. This is the pla
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=shoaibajmi&count_private=true&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1F222E" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=shoaibajmi&theme=material-palenight&hide_border=true&fire=C77800&ring=7C2AE8&background=1F222E" />
 </p>
-
-
-
-<p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibajmi&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-</p>
-
-
-<p>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibajmi&hide=TeX&layout=compact&theme=radical&hide_border=true&bg_color=1F222E" />
-</p>
